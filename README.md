@@ -6,8 +6,8 @@ PowerCapsLock是一个用于增强`CapsLock`按键功能的小工具，初衷是
 
 * `CapsLock Down`, `CapsLock Up`: 切换大写锁定，和`CapsLock`原本的功能一致；
 * `CapsLock Down` + `H/J/K/L`: 分别转换为`Left, Down, Up, Right`四个方向键的按键事件；
-* `CapsLock Down + Space`: 转换为`Win + Space`，解决Windows10切换输入法时Win键不方便按到的问题；
-* `CapsLock Down + 其他按键`：转换为`Ctrl + 其他按键`，即通过`CapsLock`实现了`Ctrl`键的功能；
+* `CapsLock Down` + `Space`: 转换为`Win` + `Space`，解决Windows10切换输入法时`Win`键不方便按到的问题；
+* `CapsLock Down` + 其他按键：转换为`Ctrl` + 其他按键，即通过`CapsLock`实现了`Ctrl`键的功能；
 
 ## 编译方法
 
